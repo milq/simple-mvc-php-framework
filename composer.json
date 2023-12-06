@@ -10,7 +10,7 @@
         ]
     },
     "require": {
-        "symfony/routing": "^4.4",
-        "symfony/http-foundation": "^4.4"
+        "symfony/routing": "^7.0.0",
+        "symfony/http-foundation": "^7.0.0"
     }
 }
